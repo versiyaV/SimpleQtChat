@@ -13,10 +13,16 @@
 ```
     
 ## Использование
-
+Запуск сервера
 ```bash
-./client
+cd Server
 ./server
+```
+
+Запуск клиента
+```bash
+cd client
+./client
 ```
 
 ![login](https://github.com/versiyaV/SimpleQtChat/assets/115622652/11d4b6e3-44a3-4188-be35-03efc3031545)
