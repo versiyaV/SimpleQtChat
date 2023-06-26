@@ -8,7 +8,7 @@
 ## Установка
 
 ```bash
-  https://github.com/versiyaV/SimpleQtChat.git
+  git clone https://github.com/versiyaV/SimpleQtChat.git
   cd SimpleQtChat
 ```
     
