@@ -25,8 +25,10 @@ cd client
 ./client
 ```
 
-![login](https://github.com/versiyaV/SimpleQtChat/assets/115622652/11d4b6e3-44a3-4188-be35-03efc3031545)
-![chat](https://github.com/versiyaV/SimpleQtChat/assets/115622652/34513217-2d76-4de8-bce8-5c66c07aa840)
+![login (1)](https://github.com/versiyaV/SimpleQtChat/assets/115622652/ea811ba6-3de3-4048-a538-e1d337419984)
+
+![chat](https://github.com/versiyaV/SimpleQtChat/assets/115622652/296ab4a7-a652-4fb9-bb67-49b3221e14df)
+
 
 
 
